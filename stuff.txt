@@ -1,3 +1,2 @@
 Hello there. This is used to practice with git.
-Forgot to add this line.
-The quick brown fox jumped over the lazy dog.
+More additions needed here.
